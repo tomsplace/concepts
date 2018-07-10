@@ -4,6 +4,8 @@
 
 There are no constants, only slowly changing variables, +/- allowable error
 
+c.f., glass is a fluid, solids are elastic
+
 i.e., Heraclitus was right
 
 * sensor location ... can shift during an experiment
